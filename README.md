@@ -8,6 +8,7 @@
 
 | 年月 | タイトル | 状態 | パス |
 | --- | --- | --- | --- |
+| 2026.11 | 技術書典21で、AWSのニッチなサービスを解説する「AWS Deep Cuts」を９種類頒布します！ | 公開済み（https://qiita.com/kenken38/items/8f6059b0658317681589 ） | [`2026_11/techbookfest21-aws-deep-cuts/`](2026_11/techbookfest21-aws-deep-cuts/) |
 | 2026.12 | Amazon Nova 2 Sonic の応答テキストは2種類ある：SPECULATIVE と FINAL の違いと使い分け | 下書き | [`2026_12/nova-sonic-speculative-final/`](2026_12/nova-sonic-speculative-final/) |
 
 状態は「下書き」「著者確認中」「公開済み」のどれかを書きます。公開済みの記事には、投稿先の URL を足します。
