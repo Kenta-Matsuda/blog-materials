@@ -8,6 +8,7 @@
 
 | 年月 | タイトル | 状態 | パス |
 | --- | --- | --- | --- |
+| 2026.12 | Strands Agents の会話履歴は window_size を超えると消える。ConversationManager の3つのモードで挙動を比べた | 下書き（検証とキャプチャ待ち） | [`2026_12/strands-conversation-manager/`](2026_12/strands-conversation-manager/) |
 | 2026.12 | Amazon Nova 2 Sonic の応答テキストは2種類ある：SPECULATIVE と FINAL の違いと使い分け | 下書き | [`2026_12/nova-sonic-speculative-final/`](2026_12/nova-sonic-speculative-final/) |
 
 状態は「下書き」「著者確認中」「公開済み」のどれかを書きます。公開済みの記事には、投稿先の URL を足します。
